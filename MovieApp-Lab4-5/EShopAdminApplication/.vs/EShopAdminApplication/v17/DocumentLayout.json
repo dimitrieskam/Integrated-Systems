@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\user5452\\downloads\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\user5452\\downloads\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\user5452\\downloads\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\user5452\\downloads\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\user5452\\downloads\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\user5452\\downloads\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\user5452\\downloads\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\user5452\\downloads\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\models\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\user5452\\downloads\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\user5452\\downloads\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\user5452\\downloads\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\models\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\user5452\\downloads\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\user5452\\downloads\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\user5452\\downloads\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\models\\ticketinshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3173EBAF-BF91-4CCF-8385-1FBDB92C3B5C}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\ticketinshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "EShopAdminApplication\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:36:40.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "EShopAdminApplication\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAawF8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:32:32.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "EShopAdminApplication\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T22:57:55.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "EShopAdminApplication\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T22:18:16.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EShopAdminApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T23:14:19.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EShopApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\EShopApplicationUser.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Models\\EShopApplicationUser.cs",
+              "ToolTip": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\EShopApplicationUser.cs",
+              "RelativeToolTip": "EShopAdminApplication\\Models\\EShopApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:28:12.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\Movie.cs",
+              "RelativeToolTip": "EShopAdminApplication\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:28:27.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "EShopAdminApplication\\Views\\Order\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T22:57:43.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\Order.cs",
+              "RelativeToolTip": "EShopAdminApplication\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:28:35.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Program.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Program.cs",
+              "RelativeToolTip": "EShopAdminApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:47:44.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TicketInOrder.cs",
+              "DocumentMoniker": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\TicketInOrder.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Models\\TicketInOrder.cs",
+              "ToolTip": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\TicketInOrder.cs",
+              "RelativeToolTip": "EShopAdminApplication\\Models\\TicketInOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:29:05.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "EShopAdminApplication\\Models\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:28:44.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\Ticket.cs",
+              "RelativeToolTip": "EShopAdminApplication\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:28:53.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TicketInShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\TicketInShoppingCart.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Models\\TicketInShoppingCart.cs",
+              "ToolTip": "C:\\Users\\User5452\\Downloads\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\TicketInShoppingCart.cs",
+              "RelativeToolTip": "EShopAdminApplication\\Models\\TicketInShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:29:16.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
