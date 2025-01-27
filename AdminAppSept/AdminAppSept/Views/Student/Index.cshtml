@@ -1,0 +1,56 @@
+﻿
+
+@model List<AdminAppSept.Models.Student>
+
+    <div class="container">
+        <div class="row m-4">
+            <table class="table">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>#</th>
+                        <th>Index</th>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Embg</th>
+                        <th>Phone Number</th>
+                    </tr>
+                </thead>
+                <tbody>
+                @if (Model.Count == 0)
+                {
+                    <tr>
+                        <td colspan="5">No Active Students</td>
+                    </tr>
+                }
+                else
+                {
+                    @for(int i = 0; i < Model.Count; i++)
+                    {
+                        var item = Model[i];
+                        <tr>
+                            <td>
+                                @(i+1)
+                            </td>
+                            <td>
+                                @item.StudentIndex
+                            </td>
+                            <td>
+                                @item.FirstName
+                            </td>
+                            <td>
+                                @item.LastName
+                            </td>
+                            <td>
+                                @item.Embg
+                            </td>
+                            <td>
+                                @item.PhoneNumber
+                            </td>
+
+                        </tr>
+                    }
+                }
+            </tbody>
+            </table>
+        </div>
+    </div>
